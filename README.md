@@ -12,7 +12,16 @@
 2. Download the Windows version git bash from Google
 
 **Part 1: Webstorm**
-
+1. Sign up for JetBrains and then download Webstorm.
+2. Open the application. To access the settings panel, use ctrl + alt + s.
+3. Check under version control to see whether git is identified.
+4. Close the tab and access the main app's projects.
+5. Select VCS on there.
+6. Go to GitHub and find the repository you wish to clone.
+7. There is a green button named code, which opens a little window with several tabs.
+8. Choose HTTPS and copy the URL from there.
+9. Paste it into the URL bar of the VCS.
+10. Once you press the clone button, the repository will be available on your machine.
 
 **Part 2: Glossary**
 1. Branch: Allows anyone to work on the project's files without affecting the main project.
